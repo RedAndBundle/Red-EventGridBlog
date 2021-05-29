@@ -1,4 +1,4 @@
-# Red-EventGridBlog
+# Red.EventGridBlog
 
 Copyright (c) 2021 Red and Bundle
 
