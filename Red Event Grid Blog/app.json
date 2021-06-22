@@ -1,0 +1,26 @@
+{
+  "id": "f446356f-29cb-46c8-9105-093261fb56cd",
+  "name": "Red Event Grid Blog",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://RedEventGridBlog.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
