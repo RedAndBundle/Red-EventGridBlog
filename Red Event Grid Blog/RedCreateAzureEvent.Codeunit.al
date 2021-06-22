@@ -124,7 +124,7 @@ codeunit 50100 "Red Create Azure Event"
 
         TempBlob.CreateInStream(Instr);
         Base64 := Base64Convert.ToBase64(Instr);
-        Base64 := 'BASE64 STRING CONTAINING THE REPORT';
+        // Base64 := 'BASE64 STRING CONTAINING THE REPORT';
         FileType := 'pdf';
     end;
 
