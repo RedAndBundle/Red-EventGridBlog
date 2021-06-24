@@ -52,7 +52,7 @@ report 50100 "Red Test Event Grid"
         JobQueueEntry."Object ID to Run" := Codeunit::"Red Create Azure Event";
         JobQueueEntry."Record ID to Process" := RecRef.RecordId;
         JobQueueEntry."Job Queue Category Code" := '';
-        JobQueueEntry.Description := 'Bra-SalesDocPosted';
+        JobQueueEntry.Description := 'Red-SalesDocPosted';
         Codeunit.Run(Codeunit::"Red Create Azure Event", JobQueueEntry);
     end;
 
